@@ -3,7 +3,7 @@
 name: CI
 
 # Controls when the workflow will run
-on:
+on: node.js.npm_npx
   # Triggers the workflow on push or pull request events but only for the main branch
   push:https://github.com/Earthman100/https-github.com-users-Earthman100-projects-1-column-15071257/pull/1#issue-997305684
     branches: [ main ]
